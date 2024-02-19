@@ -1,0 +1,52 @@
+.container {
+  display: flex;
+}
+
+.head {
+  min-width: 918px;
+}
+.sidebar {
+  width: 200px;
+}
+.card {
+  width: 400px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.createPost {
+  width: 400px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.badges {
+  margin: 15px 0px 0px 0px;
+  font-family: sans-serif;
+}
+.tagBadges {
+  margin: 3px;
+}
+p {
+  margin-bottom: 0.5rem;
+}
+.paragraph {
+  margin-bottom: 0.5rem;
+  font-family: cursive;
+}
+.Postbutton {
+  margin-left: 20px;
+}
+h4 {
+  font-family: cursive;
+}
+.inputbox {
+  margin: -5px;
+}
+.welcome {
+  margin: 50px;
+}
+.welcomebtn {
+  margin: 50px;
+}
+.loader {
+  margin: 60px;
+}
